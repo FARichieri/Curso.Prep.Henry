@@ -1,0 +1,55 @@
+h1 {
+    color: goldenrod;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+img {
+    max-width: 400px;
+    position: relative;
+    right: 40px;
+}
+
+div {
+    padding: 20px;
+    text-align: center;
+}
+
+
+#thirdDiv {
+   height: 600px;
+   max-width: 500px;
+   background-color: rgba(0, 0, 0, 0.5);
+   padding: 50px;
+   border: 5px solid rgba(255, 255, 255, 0.5);
+   color:white;
+   margin: auto;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url("https://res.cloudinary.com/tf-lab/image/upload/restaurant/11b5d7bf-ba81-469a-bf7d-ae72d2998b4f/39c75c54-7e33-47ba-bb3e-7297728e00a0.jpg");
+    background-size: cover;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+a {
+    color: black;
+    background-color: white;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
